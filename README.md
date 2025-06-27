@@ -3,7 +3,7 @@
 🚀 Passionate about building things with **code** — from mobile apps to backend systems.
 
 ### 👨‍💻 About Me
-- 🔭 Currently learning **Express.js** and diving deeper into **Backend Development**  
+- 🔭 Currently learning **React js**. 
 - 🎯 Strong interest in **Software Engineering**, especially building complete systems from frontend to backend  
 - 🛠️ Comfortable with: `Flutter`, `Firebase`, `Java`, `JavaFX`, `MySQL`, and exploring `Node.js`  
 - 😄 Pronouns: MK  
